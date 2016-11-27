@@ -10,6 +10,8 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            // zrobie cos
+            int daw = 0;
         }
     }
 }
